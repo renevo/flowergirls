@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flowergirls",
+  "name": "Ender Flowergirls",
+  "description": "Prevents Enderman from carrying anything but red and yellow flower.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/RenEvo/flowergirls",
+  "updateUrl": "",
+  "authorList": ["RenEvo"],
+  "credits": "Enderman for nerfing my base.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
