@@ -12,18 +12,18 @@ public class FlowerGirls {
     public static final String MODID = "flowergirls";
 
     public static final Block[] blocks = new Block[]{
-            Blocks.grass,
-            Blocks.dirt,
-            Blocks.sand,
-            Blocks.gravel,
-            Blocks.tnt,
-            Blocks.cactus,
-            Blocks.clay,
-            Blocks.pumpkin,
-            Blocks.melon_block,
-            Blocks.mycelium,
-            Blocks.brown_mushroom,
-            Blocks.red_mushroom
+            Blocks.GRASS,
+            Blocks.DIRT,
+            Blocks.SAND,
+            Blocks.GRAVEL,
+            Blocks.TNT,
+            Blocks.CACTUS,
+            Blocks.CLAY,
+            Blocks.PUMPKIN,
+            Blocks.MELON_BLOCK,
+            Blocks.MYCELIUM,
+            Blocks.BROWN_MUSHROOM,
+            Blocks.RED_MUSHROOM
     };
 
     @EventHandler
