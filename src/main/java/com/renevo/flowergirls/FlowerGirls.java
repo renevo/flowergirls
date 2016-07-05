@@ -23,7 +23,8 @@ public class FlowerGirls {
             Blocks.MELON_BLOCK,
             Blocks.MYCELIUM,
             Blocks.BROWN_MUSHROOM,
-            Blocks.RED_MUSHROOM
+            Blocks.RED_MUSHROOM,
+            Blocks.NETHERRACK
     };
 
     @EventHandler
